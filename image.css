@@ -1,0 +1,45 @@
+*{
+	
+background-color:pink;
+}
+
+h1{
+	
+color:purple;
+
+}
+
+
+header{
+	
+	font-size:22px;
+	font-family:algerian;
+	text-align:center;
+	
+	
+}
+
+main{
+	margin-left:120px;
+}
+
+.box{
+	display:inline;
+	width:30%;
+    padding:15px;
+	
+    
+}
+
+img{
+	width:15%;
+	height:30%;
+	border-radius:10px;
+}
+
+img:hover{
+	
+	transform:scale(2,2);
+	transition:1s transform;
+}
+

@@ -1,0 +1,40 @@
+.menu-item{
+	
+	text-align:center;
+	text-transform:uppercase;
+	background-color:#263880;
+	color:pink;
+	padding:10px 0;
+	cursor:pointer;
+	
+}
+
+.menu-item:hover{
+	
+	background-color:D92121;
+	
+}
+
+#banner{
+	margin-top:30px;
+	
+}
+
+#course{
+	
+	text-align:justify;
+	
+}
+
+footer{
+	text-align:center;
+	background-color:white;
+	color:maroon;
+	padding:10px 0;
+	font:normal;
+}
+
+footer{
+	margin-top:30px;
+	
+}

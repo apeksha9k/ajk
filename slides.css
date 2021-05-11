@@ -1,0 +1,13 @@
+.slides{
+	display:inline;
+	width:15%;
+    padding:25px;
+	
+}
+
+
+#round:hover{
+	
+	transition:2s transform;
+	transform:rotateY(150deg);
+}
