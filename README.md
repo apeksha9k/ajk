@@ -1,6 +1,6 @@
-# Sweets and Chats Webpage
+# Sweets and Chats Website
 
-This is a webpage built using HTML and CSS for AJK sweets and chats.
+This is a website built using HTML and CSS for AJK sweets and chats.
 
 The home page gives an overview about the business. It has links to other pages of the website like Menu, Gallery and Contact info.
 
